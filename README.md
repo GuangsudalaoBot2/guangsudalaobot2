@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @guangsudalao666
-- 👀 这是guangsudalao的备用账号
+A Bot of guangsudalao
+[@guangsudalao](https://github.com/guangsudalao)
 
-<!---
-guangsudalao666/guangsudalao666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Stats](https://github-readme-stats.vercel.app/api?username=guangsudalaobot2&show_icons=true&theme=ocean_dark)  
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=guangsudalaobot2&layout=compact&show_icons=true&theme=ocean_dark)
