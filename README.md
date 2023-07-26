@@ -1,5 +1,10 @@
-A Bot of guangsudalao
-[@guangsudalao](https://github.com/guangsudalao)
+## Hi, I’m @GuangsudalaoBot2:
+I'm working in my main accout @Guangsudalao. This is a robot account to do some tasks that have been planned.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=guangsudalaobot2&show_icons=true&theme=ocean_dark)  
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=guangsudalaobot2&layout=compact&show_icons=true&theme=ocean_dark)
+## My Website：
+
+[Homepage](https://www.dlya.top) - [Blog](https://blog.dlya.top)
+
+## My Stats:
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=GuangsudalaoBot2&data=followers,repositories,stars)](https://github.com/Jurredr/github-widgetbox)
